@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "[🚀 - Next]: Start the development website",
+			"type": "shell",
+			"command": "npx next dev",
+			"group": { "kind": "build" }
+		}
+	]
+}
